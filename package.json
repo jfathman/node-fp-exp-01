@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "ramda": "^0.22.1",
+    "redux": "^3.6.0"
+  },
+  "scripts": {
+    "lint": "eslint app.js",
+    "app": "./app.js"
+  },
+  "name": "node-fp-exp-01",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "author": "jfathman",
+  "license": "MIT"
+}
